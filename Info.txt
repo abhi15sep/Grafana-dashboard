@@ -1,0 +1,25 @@
+1.Install Grafana from packages: https://grafanatutorials.seanwasere.com/install-grafana/
+
+2. Start Grafana first time: https://grafanatutorials.seanwasere.com/start-first-time/
+
+3. Certbot website: https://certbot.eff.org/
+
+4. Add SSL: https://grafanatutorials.seanwasere.com/add-ssl/
+
+5. Grafana Docs, HTTP Port: https://grafana.com/docs/installation/configuration/#http-port
+
+6. Change Default port: https://grafanatutorials.seanwasere.com/change-default-port/
+
+7. Strat Grafana: brew services start grafana
+
+8. Markdown reference: https://commonmark.org/help/
+
+9. Create MYsql datasource: https://grafanatutorials.seanwasere.com/create-mysql-data-source/
+
+10. 2Mysql Collector : https://github.com/meob/my2Collector
+
+11. Install MySQL Dashboard and Collector: https://grafanatutorials.seanwasere.com/install-mysql-dashboard-collector/
+
+12. Create a Custom MySQL Time Series Query: http://grafanatutorials.seanwasere.com/custom-mysql_time_series_query/
+
+13.
